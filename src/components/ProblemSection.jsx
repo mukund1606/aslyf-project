@@ -44,14 +44,14 @@ export default function ProblemSection() {
                 height={200}
                 width={100}
                 className="w-[45px] md:w-[60px] lg:w-[90px]"
-                src="/assets/Point_up.png"
+                src="/assets/point_up.png"
                 alt="emoticon"
               />
               <Image
                 height={200}
                 width={100}
                 className="w-[40px] md:w-[55px] lg:w-[80px]"
-                src="/assets/Victory.png"
+                src="/assets/victory.png"
                 alt="emoticon"
               />
               <Image
